@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     {/* Use defaultProps in Header.jsx if there is nothing to send */}
-      <Header text= "Lets goo!" />  
+      <Header text= "Vue Mastery" bgColor='red' textColor='blue'/>  
       <div className="container">
         <h1>My App</h1>
       </div>
