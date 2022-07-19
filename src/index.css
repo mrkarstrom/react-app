@@ -44,6 +44,7 @@ header {
   padding: 40px 50px;
   margin: 20px 0;
   position: relative;
+  border: #41b883;
 }
 
 .card.reverse {
